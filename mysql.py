@@ -45,5 +45,3 @@ try:
 except Exception as ex:
     print('Ошибка...')
     print(ex)
-
-
